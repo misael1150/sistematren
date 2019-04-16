@@ -3,3 +3,4 @@ Sistema para la emisión de boletos de una estación de tren cuyo contenido sea 
 
 System.out.println("Prueba de colaboración Paco");
 System.out.println("Colaboracion de osvaldo")
+System.out.println("Colaboracion del trabajo Adolfo");
